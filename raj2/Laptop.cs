@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace raj2
 {
     class Laptop
-    {
+    { //gfhyf
         public int sizeofRAM;
         public double price;
         public string Model;
