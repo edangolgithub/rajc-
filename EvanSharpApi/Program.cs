@@ -1,5 +1,5 @@
 
-namespace EvanSharpApi
+namespace EvanSharpApp
 {
     public class Program
     {

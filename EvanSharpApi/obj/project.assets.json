@@ -566,9 +566,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApi\\EvanSharpApi.csproj",
-      "projectName": "EvanSharpApi",
-      "projectPath": "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApi\\EvanSharpApi.csproj",
+      "projectUniqueName": "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApi\\EvanSharpApp.csproj",
+      "projectName": "EvanSharpApp",
+      "projectPath": "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApi\\EvanSharpApp.csproj",
       "packagesPath": "C:\\Users\\dango\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApi\\obj\\",
       "projectStyle": "PackageReference",

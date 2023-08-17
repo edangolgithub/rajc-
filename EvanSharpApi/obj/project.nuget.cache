@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vo+pZdrXX93XJeQNJ1+bawpOyfDqw78LQ0FWzDBmujkONxPi5HWPNTS8tz4FRZVD50hlynSwjrgramGMfPpehw==",
+  "dgSpecHash": "d7lEoTg7Y1FkJNnRBJC2skIt6nwX2TyeaKQqyqLVU4WjfFaw7NrUEEtI5mx+OeNl3dpF/G4rYygMH+o3JwhtBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApi\\EvanSharpApi.csproj",
+  "projectFilePath": "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApi\\EvanSharpApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dango\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\dango\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

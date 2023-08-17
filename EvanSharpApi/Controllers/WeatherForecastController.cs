@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace EvanSharpApi.Controllers
+namespace EvanSharpApp.Controllers
 {
     [ApiController]
     [Route("[controller]")]
