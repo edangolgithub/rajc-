@@ -1,7 +1,0 @@
-C:\Users\Niraj\Desktop\raj projects\raj2\raj2\bin\Debug\raj2.exe.config
-C:\Users\Niraj\Desktop\raj projects\raj2\raj2\bin\Debug\raj2.exe
-C:\Users\Niraj\Desktop\raj projects\raj2\raj2\bin\Debug\raj2.pdb
-C:\Users\Niraj\Desktop\raj projects\raj2\raj2\obj\Debug\raj2.csprojAssemblyReference.cache
-C:\Users\Niraj\Desktop\raj projects\raj2\raj2\obj\Debug\raj2.csproj.CoreCompileInputs.cache
-C:\Users\Niraj\Desktop\raj projects\raj2\raj2\obj\Debug\raj2.exe
-C:\Users\Niraj\Desktop\raj projects\raj2\raj2\obj\Debug\raj2.pdb
