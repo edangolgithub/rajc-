@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApi\\EvanSharpApp.csproj": {}
+    "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApp\\EvanSharpApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApi\\EvanSharpApp.csproj": {
+    "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApp\\EvanSharpApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApi\\EvanSharpApp.csproj",
+        "projectUniqueName": "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApp\\EvanSharpApp.csproj",
         "projectName": "EvanSharpApp",
-        "projectPath": "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApi\\EvanSharpApp.csproj",
+        "projectPath": "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApp\\EvanSharpApp.csproj",
         "packagesPath": "C:\\Users\\dango\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApi\\obj\\",
+        "outputPath": "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\programs\\devexpress\\Components\\Offline Packages",
@@ -50,17 +50,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.10, )"
-            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.19.4, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
             }
           },
           "imports": [
