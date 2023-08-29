@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApp\\EvanSharpApp.csproj": {}
+    "D:\\Azure\\evancsharp\\EvanSharpApp\\EvanSharpApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApp\\EvanSharpApp.csproj": {
+    "D:\\Azure\\evancsharp\\EvanSharpApp\\EvanSharpApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApp\\EvanSharpApp.csproj",
+        "projectUniqueName": "D:\\Azure\\evancsharp\\EvanSharpApp\\EvanSharpApp.csproj",
         "projectName": "EvanSharpApp",
-        "projectPath": "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApp\\EvanSharpApp.csproj",
+        "projectPath": "D:\\Azure\\evancsharp\\EvanSharpApp\\EvanSharpApp.csproj",
         "packagesPath": "C:\\Users\\dango\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dango\\source\\repos\\evancsharp\\EvanSharpApp\\obj\\",
+        "outputPath": "D:\\Azure\\evancsharp\\EvanSharpApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\programs\\devexpress\\Components\\Offline Packages",
