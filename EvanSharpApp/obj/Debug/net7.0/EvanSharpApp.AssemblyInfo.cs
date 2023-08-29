@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EvanSharpApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+314305e761f0141065afb9c40cb6f9ea0c0356ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("EvanSharpApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EvanSharpApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
