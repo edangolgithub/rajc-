@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H2lPdh13KEuMe7RSWm5l/zZKG2TvaHM8PvuPywdBB4IUBBUxnuDdG+kh7uu07H4fc5NKmBlK/61o2wWt/OsNgw==",
+  "dgSpecHash": "lFLUMyeDvHa0vEkPVM3jirPmmo3Kd8aHfRofipU3T2SFYmLV4IsCujbsEpRMriwCImG5ZcKMlDsGKXGzDICZRg==",
   "success": true,
-  "projectFilePath": "D:\\Azure\\evancsharp\\EvanSharpApp\\EvanSharpApp.csproj",
+  "projectFilePath": "D:\\Azure\\EvanSharp\\EvanSharpApp\\EvanSharpApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dango\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
   ],
